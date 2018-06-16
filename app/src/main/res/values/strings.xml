@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FallAlert</string>
+    <string name="btnStop">Stop</string>
+    <string name="btnStart">Start</string>
+    <string name="btnConnectDevice">Select Device</string>
+    <string name="btnSettings">Settings</string>
+    <string name="btnNoAlert">Cancel alarm!</string>
+    <string name="txtStateDefault">No device connected.\n Application not running</string>
 </resources>
