@@ -89,6 +89,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/appStateTxt"
-        app:layout_constraintVertical_bias="0.69" />
+        app:layout_constraintVertical_bias="0.68" />
 
 </android.support.constraint.ConstraintLayout>
