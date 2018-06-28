@@ -31,5 +31,27 @@ public class MainActivity extends Activity {
         SmsManager sms = SmsManager.getDefault();
         sms.sendTextMessage(phoneNumber, null, message, pi, null);
     }
+
+    public void onButtonClickStart(View view) {
+
+    }
+
+
+    public void onButtonClickStop(View view) {
+
+    }
+
+    public void onButtonClickDevice(View view) {
+
+    }
+
+    public void onButtonClickSettings(View view) {
+
+    }
+
+    public void onButtonClickCancelAlarm(View view) {
+
+    }
+
     
 }
